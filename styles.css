@@ -1,0 +1,16 @@
+
+body {
+    width:10pc;
+    height:10pc;
+    background-color:gray;   
+    margin:0px;
+}
+#player{
+    position:absolute;
+    transform: translate(-50%, -50%);
+    top:50%;
+    left:50%;
+    background-color:cyan;
+    height:100px;
+    width:100px;
+}
